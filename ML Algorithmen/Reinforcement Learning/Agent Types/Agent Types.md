@@ -1,0 +1,5 @@
+[[Model-based]]
+[[Model-free]]
+[[Policy-based]]
+[[Value-based]]
+[[Actor-critic]]

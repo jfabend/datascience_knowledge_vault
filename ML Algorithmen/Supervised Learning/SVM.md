@@ -1,0 +1,1 @@
+Lege ein Hyperebene durch die Daten, so dass die Summe der Distanzen zwischen Daten und Ebene maximiert wird

@@ -1,0 +1,1 @@
+This method extends [[Double Exponential Smoothing]], by adding a seasonal smoothing factor. Of course, this is useful if you notice seasonality in your time series

@@ -1,0 +1,1 @@
+Wie [[Simple Exponential Smoothing]], aber mit einem Trend Smoothing factor

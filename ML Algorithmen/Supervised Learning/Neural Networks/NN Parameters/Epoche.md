@@ -1,0 +1,1 @@
+Das GANZE Dataset wurde einmal vorwärts und rückwärts durch das Netz gegeben

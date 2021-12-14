@@ -1,0 +1,1 @@
+Wie [[Moving Average MA]], aber je weiter Observationen in der Vergangenheit zurückliegen, desto geringer werden sie gewichtet

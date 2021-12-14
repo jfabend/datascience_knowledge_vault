@@ -1,0 +1,5 @@
+[[Bidirektionaler Assoziativspeicher]]
+[[Elman-Netze]]
+[[Jordan-Netze]]
+[[LSTM Networks]]
+[[Gated RNNs]]

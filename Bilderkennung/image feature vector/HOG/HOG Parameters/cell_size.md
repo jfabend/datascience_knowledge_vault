@@ -1,0 +1,1 @@
+Cell size in pixels (_width, height_). Determines the size fo your cell. The smaller the cell the finer detail you will get

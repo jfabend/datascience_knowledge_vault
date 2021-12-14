@@ -1,0 +1,1 @@
+-   **ResNets (2015) –** [Residual Network](http://arxiv.org/abs/1512.03385) developed by Kaiming He (and others) was the winner of ILSVRC 2015. ResNets are currently by far state of the art Convolutional Neural Network models and are the default choice for using ConvNets in practice (as of May 2016).

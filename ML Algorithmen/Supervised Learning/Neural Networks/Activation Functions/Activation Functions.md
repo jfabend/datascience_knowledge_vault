@@ -1,0 +1,5 @@
+[[ReLu]]
+[[Sigmoid]]
+[[tanh]]
+[[Leaky ReLu]]
+[[ML Algorithmen/Supervised Learning/Neural Networks/Activation Functions/softmax]]

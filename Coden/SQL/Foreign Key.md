@@ -1,0 +1,1 @@
+A foreign key is used to link two tables together

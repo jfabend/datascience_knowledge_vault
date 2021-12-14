@@ -1,0 +1,1 @@
+Das Maximum der Wahrscheinlichkeitsdichtefunktion

@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "da5fe759a4b64afa",
+    "type": "split",
+    "children": [
+      {
+        "id": "79f558ce6316377a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b90b933b3e80359",
+    "type": "split",
+    "children": [
+      {
+        "id": "5644798f00cb90c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e156245415f442e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fd7962fad4068aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346
+  },
+  "right": {
+    "id": "a4abc8dc76e8f097",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfe76f66a344f563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55ef5b47b38b0481",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "79f558ce6316377a",
+  "lastOpenFiles": [
+    "Coden/Python/Libraries/ML/ML.md",
+    "Pictures/Pasted image 20210828120607.png",
+    "Checkliste DS Projekt.md",
+    "Untitled.md",
+    "Projekte und Vorstellung/Projekte und Vorstellung.md",
+    "Wahrscheinlichkeit/Bayesian Statistic/Bayesian Statistic.md",
+    "ML Algorithmen/Supervised Learning/Naive Bayes.md",
+    "Wahrscheinlichkeit/Bayesian Statistic/Bayes Theorem.md",
+    "Wahrscheinlichkeit/Verknüpfung von Wahrscheinlichkeiten/Event A und B.md",
+    "Wahrscheinlichkeit/Verknüpfung von Wahrscheinlichkeiten/Verknüpfung von Wahrscheinleichkeiten.md"
+  ]
+}

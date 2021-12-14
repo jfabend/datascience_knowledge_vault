@@ -1,0 +1,1 @@
+Number of batches ( dependent on [[Batch Size]] ) to complete one [[Epoche]]

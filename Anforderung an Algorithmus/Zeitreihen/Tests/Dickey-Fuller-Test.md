@@ -1,0 +1,1 @@
+Testet eine Zeitreihe auf [[Stationarität]]

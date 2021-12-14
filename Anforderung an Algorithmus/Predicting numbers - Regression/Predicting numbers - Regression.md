@@ -1,0 +1,17 @@
+[[Lineare Modelle]]
+[[XGBoost]]
+[[Neural Networks]]
+[[Random Forest]]
+[[CatBoost]]
+[[Adaboost]]
+[[SGD Regressor]]
+[[Lasso]]
+[[ElasticNet]]
+[[Ridge Regression]]
+[[SVR kernel=linear]]
+[[SVR kernel=rbf]]
+[[EnsembleRegressors]]
+[[Poisson]]
+
+Quality Assurance:
+[[Numerical]]

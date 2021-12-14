@@ -1,0 +1,1 @@
+Sometimes, it is convenient to pad the input matrix with zeros around the border, so that we can apply the filter to bordering elements of our input image matrix. A nice feature of zero padding is that it allows us to control the size of the feature maps. Adding zero-padding is also called _wide convolution_**,** and not using zero-padding would be a _narrow convolution_.

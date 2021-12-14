@@ -1,0 +1,5 @@
+=> Die drei Grenz-Datenpunkte zwischen den vier Vierteln
+
+-   The first quartile (_Q_1) is defined as the middle number between the smallest number ([minimum](https://en.wikipedia.org/wiki/Sample_minimum "Sample minimum")) and the [median](https://en.wikipedia.org/wiki/Median "Median") of the data set. It is also known as the _lower_ or _25th empirical_ quartile, as 25% of the data is below this point.
+-   The second quartile (_Q_2) is the median of a data set; thus 50% of the data lies below this point.
+-   The third quartile (_Q_3) is the middle value between the median and the highest value ([maximum](https://en.wikipedia.org/wiki/Sample_maximum_and_minimum "Sample maximum and minimum")) of the data set. It is known as the _upper_ or _75th empirical_ quartile, as 75% of the data lies below this point.[[1]](https://en.wikipedia.org/wiki/Quartile#cite_note-:0-1)

@@ -1,0 +1,1 @@
+Block stride in pixels (_horizontal, vertical_). It must be an integer multiple of cell size. The block_stride defines the distance between adjecent blocks, for example, 8 pixels horizontally and 8 pixels vertically. Longer block_strides makes the algorithm run faster (because less blocks are evaluated) but the algorithm may not perform as well

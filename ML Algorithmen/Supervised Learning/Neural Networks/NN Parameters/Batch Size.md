@@ -1,0 +1,1 @@
+Man teilt das ganze Dataset auf in kleinere Häppchen, welche durch das Netz gegeben werden

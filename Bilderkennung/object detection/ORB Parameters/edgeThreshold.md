@@ -1,0 +1,2 @@
+_int_  
+The size of the border where features are not detected. Since the keypoints have a specific pixel size, the edges of images must be excluded from the search. The size of the edgeThreshold should be equal to or greater than the patchSize parameter.

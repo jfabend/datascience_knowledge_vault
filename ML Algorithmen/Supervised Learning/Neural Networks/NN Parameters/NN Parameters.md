@@ -1,0 +1,2 @@
+[[Epoche]]
+[[Batch Size]]

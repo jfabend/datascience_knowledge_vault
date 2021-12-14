@@ -1,0 +1,2 @@
+[[Poisson-Verteilungen]]
+[[Binomialverteilung]]

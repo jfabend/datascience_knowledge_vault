@@ -1,0 +1,1 @@
+Median (Abs ( Prediction - Median)) / Median(actuals)

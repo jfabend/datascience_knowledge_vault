@@ -1,0 +1,8 @@
+[[Accuracy Rate]]
+[[ROC-Kurve]]
+[[Confusion Matrix]]
+[[Recall Rate]]
+[[Precision]]
+[[Kappa]]
+[[F Score or F1]]
+[[Logloss]]

@@ -1,0 +1,1 @@
+Wahrscheinlichkeitswert für den Eintritt der Nullhypothese

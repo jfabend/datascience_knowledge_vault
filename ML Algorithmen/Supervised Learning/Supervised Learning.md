@@ -1,0 +1,6 @@
+[[Lineare Modelle]]
+[[Decision Trees]]
+[[SVM]]
+[[Naive Bayes]]
+[[Matrix Factorization]]
+[[Neural Networks]]

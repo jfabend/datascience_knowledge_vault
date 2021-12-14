@@ -1,0 +1,6 @@
+[[Decision Trees]]
+[[Lineare Modelle]]
+[[Gradient Boosting]]
+[[Random Forest]]
+[[Naive Bayes]]
+[[ORB Algorithm]]

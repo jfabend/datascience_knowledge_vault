@@ -1,0 +1,2 @@
+ _float_  
+Pyramid decimation ratio, must be greater than 1. ORB uses an image pyramid to find features, therefore you must provide the scale factor between each layer in the pyramid and the number of levels the pyramid has. A scaleFactor = 2 means the classical pyramid, where each next level has 4x less pixels than the previous. A big scale factor will diminish the number of features found.

@@ -1,0 +1,1 @@
+Eine univariate Zeitreihe ist nicht nur von sich selbst und einer unbeobachtbaren Schockvariable abhängig, sondern auch von x anderen Variablen, die sich jedoch gegenseitig nicht beeinflussen. Die univariate Zeitreihe hat keinen Einfluss auf diese x Variablen

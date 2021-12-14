@@ -1,0 +1,4 @@
+pip config list
+pip config list -v
+
+pip config set [keyname] 'value'

@@ -1,0 +1,1 @@
+count the values in all feature columns and delete the ones with very low frequency

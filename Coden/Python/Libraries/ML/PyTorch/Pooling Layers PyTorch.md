@@ -1,0 +1,1 @@
+[torch.nn — PyTorch 1.9.0 documentation](https://pytorch.org/docs/stable/nn.html#pooling-layers)

@@ -1,0 +1,3 @@
+[[MinMaxScaler]]
+[[Normalisierung - Scaling]]
+[[StandardScaler]]

@@ -1,0 +1,1 @@
+Divide a feature into bins and then use the bin number as new feature

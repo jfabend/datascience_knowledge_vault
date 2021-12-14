@@ -1,0 +1,1 @@
+Block size in pixels (_width, height_). Defines how many cells are in each block. Must be an integer multiple of cell size and it must be smaller than the detection window. The smaller the block the finer detail you will get.

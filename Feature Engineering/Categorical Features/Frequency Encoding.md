@@ -1,0 +1,1 @@
+We count the number of distinct values in a column and then divide by the total length of the column. As a result, we get a “share” of every value that will play well with any ML algorithm.

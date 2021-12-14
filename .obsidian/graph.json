@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"ML Algorithmen\"",
+      "color": {
+        "a": 1,
+        "rgb": 2733325
+      }
+    },
+    {
+      "query": "path:\"Feature Engineering\"",
+      "color": {
+        "a": 1,
+        "rgb": 15319809
+      }
+    },
+    {
+      "query": "path:\"Anforderung an Algorithmus\"",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Wahrscheinlichkeit",
+      "color": {
+        "a": 1,
+        "rgb": 1746943
+      }
+    },
+    {
+      "query": "path:\"Quality & Evaluation\"",
+      "color": {
+        "a": 1,
+        "rgb": 14169581
+      }
+    },
+    {
+      "query": "path:\"ML Engineering\"",
+      "color": {
+        "a": 1,
+        "rgb": 2499533
+      }
+    },
+    {
+      "query": "path:/Bilderkennung/",
+      "color": {
+        "a": 1,
+        "rgb": 13982977
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.42134831460674,
+  "lineSizeMultiplier": 0.944194756554307,
+  "collapse-forces": false,
+  "centerStrength": 0.529084433892269,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.09375110842727553,
+  "close": true
+}
